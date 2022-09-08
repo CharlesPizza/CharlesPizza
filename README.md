@@ -11,7 +11,7 @@
 
 <div>
   <a href='https://www.github.com/CharlesPizza/'><strong>Web Scrapping</strong></a>
-  <p>In this project we utilize several webscrapping libraries inorder to aggregate data across several affiliated websites which have a secure API and flex script preventing rudimentary access. <br>
+  <p>In this project we utilize several webscrapping libraries inorder to build an application to aggregate data across several affiliated websites which have a secure API and flex script impeding more robotic access. <br>
   Libraries: </p>
 </div>
 
