@@ -7,14 +7,14 @@
 </div>
 
 <div>
-  <a href='https://www.github.com/CharlesPizza/'>Web Scrapping</a>
+  <a href='https://www.github.com/CharlesPizza/'><strong>Web Scrapping</strong></a>
   <p>Blandit libero volutpat sed cras. Aliquet risus feugiat in ante metus dictum. Sit amet est placerat in egestas. Et pharetra pharetra massa massa ultricies mi quis. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Vulputate ut pharetra sit amet aliquam id. Tempor id eu nisl nunc mi. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Orci porta non pulvinar neque. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Ut porttitor leo a diam sollicitudin tempor id eu. Magna eget est lorem ipsum dolor sit amet consectetur. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Risus quis varius quam quisque. Sagittis eu volutpat odio facilisis mauris sit. A arcu cursus vitae congue mauris rhoncus. Sed nisi lacus sed viverra. Convallis a cras semper auctor neque vitae tempus. Nisi quis eleifend quam adipiscing vitae proin.</p>
 </div>
 
-<a href='https://www.github.com/CharlesPizza/'>Movie Recommendation System</a>
+<a href='https://www.github.com/CharlesPizza/'><strong>Movie Recommendation System</strong></a>
 <p>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada pellentesque elit eget gravida cum. Sem et tortor consequat id porta nibh venenatis cras sed. Congue quisque egestas diam in arcu. Eleifend donec pretium vulputate sapien. Ut pharetra sit amet aliquam id diam maecenas. Nulla at volutpat diam ut venenatis tellus in. Curabitur gravida arcu ac tortor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. At lectus urna duis convallis convallis</p>
 
-<a href='https://www.github.com/CharlesPizza/'>Data Restructure for Memory Optimization</a>
+<a href='https://www.github.com/CharlesPizza/'><strong>Data Restructure for Memory Optimization</strong></a>
 <p>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada pellentesque elit eget gravida cum. Sem et tortor consequat id porta nibh venenatis cras sed. Congue quisque egestas diam in arcu. Eleifend donec pretium vulputate sapien. Ut pharetra sit amet aliquam id diam maecenas. Nulla at volutpat diam ut venenatis tellus in. Curabitur gravida arcu ac tortor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. At lectus urna duis convallis convallis</p>
 <!--
 **CharlesPizza/CharlesPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
