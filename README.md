@@ -4,7 +4,7 @@
 ## Projects
 <div>
   <a href='https://www.github.com/CharlesPizza/'><strong>Heart Failure Prediction</strong></a>
-  <p>Here we use a random forest model to predict death events on heart patients. We do this once with and without time components.<br>
+  <p>Here we do random forest modeling to predict death events following hospital admissions. Using exploritory data analysis we attempt to identify relevant features and disprove them. We do this with and without time components due to the problems inherit with time analysis and monitoring periods. <br>
     Libraries:
   </p>
 </div>
