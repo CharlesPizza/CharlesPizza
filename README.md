@@ -20,6 +20,11 @@
 
 ## Other
 <p>Dui sapien eget mi proin sed. Id diam vel quam elementum pulvinar. Magna eget est lorem ipsum dolor sit amet consectetur. Sed libero enim sed faucibus turpis. Eros in cursus turpis massa. Ac turpis egestas integer eget aliquet nibh. Quisque non tellus orci ac. Id consectetur purus ut faucibus pulvinar elementum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Cursus eget nunc scelerisque viverra mauris. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Non odio euismod lacinia at quis risus sed vulputate. Tellus orci ac auctor augue mauris augue neque gravida. Vitae suscipit tellus mauris a diam.</p>
+<ul>
+  <li>Quis vel eros donec ac odio tempor orci dapibus.</li>
+  <li>Nisi est sit amet facilisis magna etiam.</li>
+  <li> Aliquam faucibus purus in massa tempor nec.</li>
+</ul>
 <!--
 **CharlesPizza/CharlesPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
