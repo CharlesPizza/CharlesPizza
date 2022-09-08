@@ -11,7 +11,8 @@
 
 <div>
   <a href='https://www.github.com/CharlesPizza/'><strong>Web Scrapping</strong></a>
-  <p>Blandit libero volutpat sed cras. Aliquet risus feugiat in ante metus dictum. Sit amet est placerat in egestas. Et pharetra pharetra massa massa ultricies mi quis. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Vulputate ut pharetra sit amet aliquam id. Tempor id eu nisl nunc mi. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Orci porta non pulvinar neque. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Ut porttitor leo a diam sollicitudin tempor id eu. Magna eget est lorem ipsum dolor sit amet consectetur. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Risus quis varius quam quisque. Sagittis eu volutpat odio facilisis mauris sit. A arcu cursus vitae congue mauris rhoncus. Sed nisi lacus sed viverra. Convallis a cras semper auctor neque vitae tempus. Nisi quis eleifend quam adipiscing vitae proin.</p>
+  <p>In this project we utilize several webscrapping libraries inorder to aggregate data across several affiliated websites which have a secure API and flex script preventing rudimentary access. <br>
+  Libraries: </p>
 </div>
 
 <a href='https://www.github.com/CharlesPizza/'><strong>Movie Recommendation System</strong></a>
