@@ -4,13 +4,13 @@
 <a>Heart Failure Prediction</a>
 <p></p>
 
-Web Scrapping
+<a>Web Scrapping</a>
 <p></p>
 
-Movie Recommendation System
+<a>Movie Recommendation System</a>
 <p></p>
 
-Data Restructure for Memory Optimization
+<a>Data Restructure for Memory Optimization</a>
 <p></p>
 <!--
 **CharlesPizza/CharlesPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
