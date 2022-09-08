@@ -1,5 +1,5 @@
 # Welcome Friends!
-To my github portfolio. Here I will p 
+<p>Dui sapien eget mi proin sed. Id diam vel quam elementum pulvinar. Magna eget est lorem ipsum dolor sit amet consectetur. Sed libero enim sed faucibus turpis. Eros in cursus turpis massa. Ac turpis egestas integer eget aliquet nibh. Quisque non tellus orci ac. Id consectetur purus ut faucibus pulvinar elementum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Cursus eget nunc scelerisque viverra mauris. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Non odio euismod lacinia at quis risus sed vulputate. Tellus orci ac auctor augue mauris augue neque gravida. Vitae suscipit tellus mauris a diam.</p>
 
 ## Projects
 <div>
@@ -17,6 +17,9 @@ To my github portfolio. Here I will p
 
 <a href='https://www.github.com/CharlesPizza/'><strong>Data Restructure for Memory Optimization</strong></a>
 <p>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada pellentesque elit eget gravida cum. Sem et tortor consequat id porta nibh venenatis cras sed. Congue quisque egestas diam in arcu. Eleifend donec pretium vulputate sapien. Ut pharetra sit amet aliquam id diam maecenas. Nulla at volutpat diam ut venenatis tellus in. Curabitur gravida arcu ac tortor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. At lectus urna duis convallis convallis</p>
+
+## Other
+<p>Dui sapien eget mi proin sed. Id diam vel quam elementum pulvinar. Magna eget est lorem ipsum dolor sit amet consectetur. Sed libero enim sed faucibus turpis. Eros in cursus turpis massa. Ac turpis egestas integer eget aliquet nibh. Quisque non tellus orci ac. Id consectetur purus ut faucibus pulvinar elementum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Cursus eget nunc scelerisque viverra mauris. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Non odio euismod lacinia at quis risus sed vulputate. Tellus orci ac auctor augue mauris augue neque gravida. Vitae suscipit tellus mauris a diam.</p>
 <!--
 **CharlesPizza/CharlesPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
