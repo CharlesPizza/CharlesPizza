@@ -15,7 +15,7 @@
 <a href='https://www.github.com/CharlesPizza/'><strong>Movie Recommendation System</strong></a>
 <p>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada pellentesque elit eget gravida cum. Sem et tortor consequat id porta nibh venenatis cras sed. Congue quisque egestas diam in arcu. Eleifend donec pretium vulputate sapien. Ut pharetra sit amet aliquam id diam maecenas. Nulla at volutpat diam ut venenatis tellus in. Curabitur gravida arcu ac tortor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. At lectus urna duis convallis convallis</p>
 
-<a href='https://www.github.com/CharlesPizza/'><strong>Data Restructure for Memory Optimization</strong></a>
+<a href='https://www.github.com/CharlesPizza/'><strong>Data Restructure for Memory Handling and Optimization</strong></a>
 <p>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada pellentesque elit eget gravida cum. Sem et tortor consequat id porta nibh venenatis cras sed. Congue quisque egestas diam in arcu. Eleifend donec pretium vulputate sapien. Ut pharetra sit amet aliquam id diam maecenas. Nulla at volutpat diam ut venenatis tellus in. Curabitur gravida arcu ac tortor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. At lectus urna duis convallis convallis</p>
 
 ## Other
