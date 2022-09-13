@@ -12,7 +12,7 @@
 <div>
   <a href='https://www.github.com/CharlesPizza/'><strong>Data Aggregation</strong></a>
   <p>In this project we utilize several webscrapping libraries inorder to build an application to aggregate data across several affiliated websites which have a secure API and flex script impeding more robotic access. <br>
-  Libraries: </p>
+  Libraries: bs4, selenium, re, requests, pandas, numpy, lxml</p>
 </div>
 
 <div>
