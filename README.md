@@ -3,9 +3,9 @@
 
 ## Projects
 <div>
-  <a href='https://www.github.com/CharlesPizza/'><strong>Heart Failure Prediction</strong></a>
+  <a href='https://github.com/CharlesPizza/HeartFailure'><strong>Heart Failure Prediction</strong></a>
   <p>Here we do random forest modeling to predict death events following hospital admissions. Using exploritory data analysis we attempt to identify relevant features and disprove them. We do this with and without time components due to the problems inherit with time analysis and monitoring periods. <br>
-    Libraries:
+    Libraries: pandas, numpy, seaborn, plotly, matplotlib
   </p>
 </div>
 
