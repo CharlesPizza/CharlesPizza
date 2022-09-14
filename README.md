@@ -23,7 +23,7 @@
 <div>
   <a href='https://github.com/CharlesPizza/Data-Restructure-for-Performance'><strong>Data Restructure for Memory Handling and Optimization</strong></a>
   <p>Restructuring a very large dataset to work in Kaggle's memory strained environment. We change csv to parquet, we convert strings to int16, floats to int8 for categorical representation, and use multiprocessing to avoid the free list phenomenon and allow Kaggle to reallocate the memory of the 16gb dataset.<br>
-  Libraries: pyarrow, multiprocessing, pandas, numpy</p>
+  Libraries: pyarrow, pandas, numpy, multiprocessing, resource, sys, gc </p>
 </div>
 
 ## Other
