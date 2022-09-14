@@ -21,8 +21,8 @@
 </div>
 
 <div>
-  <a href='https://www.github.com/CharlesPizza/'><strong>Data Restructure for Memory Handling and Optimization</strong></a>
-  <p>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada pellentesque elit eget gravida cum. Sem et tortor consequat id porta nibh venenatis cras sed. Congue quisque egestas diam in arcu. Eleifend donec pretium vulputate sapien. Ut pharetra sit amet aliquam id diam maecenas. Nulla at volutpat diam ut venenatis tellus in. Curabitur gravida arcu ac tortor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. At lectus urna duis convallis convallis</p>
+  <a href='https://github.com/CharlesPizza/Data-Restructure-for-Performance'><strong>Data Restructure for Memory Handling and Optimization</strong></a>
+  <p>Restructuring a very large dataset to work in Kaggle's memory strained environment. We change csv to parquet, we convert strings to int16, floats to int8 for categorical representation, and use multiprocessing to avoid the free list phenomenon and allow Kaggle to reallocate the memory of the 16gb dataset.</p>
 </div>
 
 ## Other
