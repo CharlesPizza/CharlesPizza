@@ -17,7 +17,7 @@
 
 <div>
   <a href='https://www.github.com/CharlesPizza/'><strong>Movie Recommendation System</strong></a>
-  <p>Here we create a recommendation system using a CSR Matrix and a KNNeighbors (Euclidean Distance) Algorthm. The recommendations are item based and segregated by genres. We've created only a small filesystem of images, so the interface reflects only this subsection, however it is ready to be easily converted to the entire movie library as all functions are the same. <br>
+  <p>Here we create a recommendation system using a CSR Matrix and a KNNeighbors (Euclidean Distance) Algorthym. The recommendations are item based and segregated by genres. We've created only a small filesystem of images, so the interface reflects only this subsection, however it is ready to be easily converted to the entire movie library as all functions are the same. <br>
   Libraries: pyarrow, numpy, pandas, scipy, sklearn, </p>
 </div>
 
