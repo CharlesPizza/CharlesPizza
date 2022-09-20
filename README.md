@@ -1,5 +1,5 @@
 # Welcome Friends!
-<p>Dui sapien eget mi proin sed. Id diam vel quam elementum pulvinar. Magna eget est lorem ipsum dolor sit amet consectetur. Sed libero enim sed faucibus turpis. Eros in cursus turpis massa. Ac turpis egestas integer eget aliquet nibh. Quisque non tellus orci ac. Id consectetur purus ut faucibus pulvinar elementum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Cursus eget nunc scelerisque viverra mauris. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Non odio euismod lacinia at quis risus sed vulputate. Tellus orci ac auctor augue mauris augue neque gravida. Vitae suscipit tellus mauris a diam.</p>
+<p>To my github portfolio! Here I will showcase a few of the projects I have worked on. At current most of the projects showcased are Data Science and Analysis, mostly done in python. While python is currently my prefered language, I have also worked in Java, C++, and to a lesser extent Javascript. One of the main reasons I love Python is due to it's lightning fast development, and it's intense evolution of libraries. </p>
 
 ## Projects
 <div>
