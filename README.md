@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <a href='https://github.com/CharlesPizza/BoxOfficeMovies'><strong>Data Aggregation</strong></a>
+  <a href='https://github.com/CharlesPizza/BoxOfficeMovies'><strong>Data Collection</strong></a>
   <p>In this project we utilize several webscrapping libraries inorder to build an application to aggregate data across several affiliated websites which have a secure API and flex script impeding more robotic access. <br>
   Libraries: bs4, selenium, re, requests, pandas, numpy, lxml</p>
 </div>
@@ -26,13 +26,7 @@
   Libraries: pyarrow, pandas, numpy, multiprocessing, resource, sys, gc </p>
 </div>
 
-## Other
-<p>Dui sapien eget mi proin sed. Id diam vel quam elementum pulvinar. Magna eget est lorem ipsum dolor sit amet consectetur. Sed libero enim sed faucibus turpis. Eros in cursus turpis massa. Ac turpis egestas integer eget aliquet nibh. Quisque non tellus orci ac. Id consectetur purus ut faucibus pulvinar elementum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Cursus eget nunc scelerisque viverra mauris. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Non odio euismod lacinia at quis risus sed vulputate. Tellus orci ac auctor augue mauris augue neque gravida. Vitae suscipit tellus mauris a diam.</p>
-<ul>
-  <li>Quis vel eros donec ac odio tempor orci dapibus.</li>
-  <li>Nisi est sit amet facilisis magna etiam.</li>
-  <li> Aliquam faucibus purus in massa tempor nec.</li>
-</ul>
+
 
 
 <!--
