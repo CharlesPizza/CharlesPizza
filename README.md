@@ -27,7 +27,11 @@
   Libraries: pyarrow, pandas, numpy, multiprocessing, resource, sys, gc </p>
 </div>
 
-
+<div>
+  <a href='https://www.github.com/CharlesPizza/'><strong>Steam Playtime Report</strong></a>
+  <p>Here we create a RESTAPI to use Steam's API to visualize video game use, draw parallels to addiction and, provide a report breakdown of specific users given their ID. Requires the user to not have their profile set to private. <br>
+  Libraries: Flask, pandas, bs4, requests, matplotlib, io, base64 </p>
+</div>
 
 
 <!--
