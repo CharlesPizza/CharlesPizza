@@ -33,6 +33,11 @@
   Libraries: Flask, pandas, bs4, requests, matplotlib, io, base64 </p>
 </div>
 
+<div>
+  <a href='https://www.github.com/CharlesPizza/'><strong>Schedule Visual</strong></a>
+  <p>Here we use D3 to create a waffle chart interactive to help users visualize how their daily time is categorized, and in the future help to work towards goals<br>
+  Libraries: Flask, pandas, bs4, requests, matplotlib, io, base64 </p>
+</div>
 
 <!--
 **CharlesPizza/CharlesPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
