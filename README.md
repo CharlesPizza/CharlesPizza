@@ -28,6 +28,12 @@
 </div>
 
 <div>
+  <a href='https://github.com/CharlesPizza/AudioAnalysisDollyParton'><strong>Audio Analysis of Dolly Parton Interview</strong></a>
+  <p>Here we use AssemblyAI to perform audio analysis on small interview segments. We make a few notes on the sentiment analysis and frequency of words used. While the interviews are to small or short to form anything concrete, we are able to draw out a few simple patterns of speech and personal focus.<br>
+  Libraries: pandas, hvplot, matplotlib, numpy, AssemblyAI</p>
+</div>
+
+<div>
   <a href='https://github.com/CharlesPizza/Data-Restructure-for-Performance'><strong>Data Restructure for Memory Handling and Optimization</strong></a>
   <p>Restructuring a 16gb dataset to work in Kaggle's memory strained environment. We change csv to parquet, we convert strings to int16, floats to int8 for categorical representation, and use multiprocessing to avoid the free list phenomenon and allow Kaggle to reallocate the memory of the 16gb dataset.<br>
   Libraries: pyarrow, pandas, numpy, multiprocessing, resource, sys, gc </p>
