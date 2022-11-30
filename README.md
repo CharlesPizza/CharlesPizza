@@ -9,9 +9,9 @@
 </div>
 
 <div>
-  <a href='https://github.com/CharlesPizza/HeartFailure'><strong>Heart Failure Prediction</strong></a>
-  <p>Here we do random forest modeling to predict death events following hospital admissions. Using exploritory data analysis we attempt to identify relevant features and disprove them. We do this with and without time components due to the problems inherit with time analysis and monitoring periods. <br>
-    Libraries: sklearn, pandas, numpy, seaborn, plotly, matplotlib
+  <a href='https://github.com/CharlesPizza/HealthRiskAssessment'><strong>Prediction of Hypertension, Stroke and,  Diabetes</strong></a>
+  <p>Multilabel machine learning assessment. Currently in phase of isolating different well performing models and weighting classes<br>
+    Libraries: sklearn, scipy, pandas, numpy, seaborn, plotly, matplotlib
   </p>
 </div>
 
@@ -31,6 +31,13 @@
   <a href='https://github.com/CharlesPizza/AudioAnalysisDollyParton'><strong>Audio Analysis of Dolly Parton Interview</strong></a>
   <p>Here we use AssemblyAI to perform audio analysis on small interview segments. We make a few notes on the sentiment analysis and frequency of words used. While the interviews are to small or short to form anything concrete, we are able to draw out a few simple patterns of speech and personal focus.<br>
   Libraries: pandas, hvplot, matplotlib, numpy, AssemblyAI</p>
+</div>
+
+<div>
+  <a href='https://github.com/CharlesPizza/HeartFailure'><strong>Heart Failure Prediction</strong></a>
+  <p>Here we do random forest modeling to predict death events following hospital admissions. Using exploritory data analysis we attempt to identify relevant features and disprove them. We do this with and without time components due to the problems inherit with time analysis and monitoring periods. <br>
+    Libraries: sklearn, pandas, numpy, seaborn, plotly, matplotlib
+  </p>
 </div>
 
 <div>
