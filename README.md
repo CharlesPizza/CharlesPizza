@@ -1,7 +1,10 @@
 # Welcome to my Github Portfolio: 
-<p>Hello and thank you for visiting my GitHub portfolio! My name is Charles, and I am thrilled to showcase my passion for software engineering and data analytics through this repository. Developing and creating programs, scripts and insights is a little creative light for me. I hope you see that light shine in my works. Most programming in this portfolio is done in Python. One of the main reasons I love Python is due to it's lightning fast development, and it's intense evolution of libraries. However I have a diverse technical stack which includes: Python, SQL, Excel, RStudio, Java, C++, Javascript, Tableau, POWERBI, and HTML.</p>
+<p>Hello and thank you for visiting my GitHub portfolio! My name is Charles, and I am thrilled to showcase my passion for software engineering and data analytics through this repository. Developing and creating programs, scripts and insights is a little creative light for me. I hope you see that light shine in my works. Most programming in this portfolio is done in Python. One of the main reasons I love Python is due to it's lightning fast development, and it's intense evolution of libraries. However I have a diverse technical stack which includes: Python, SQL, Excel, RStudio, Java, C++, Javascript, Tableau, POWERBI, and HTML.
+</p>
 
-<p>In today's fast-paced world, we use data for everything. We see data transforming every role, from production lines and logistics to social and political insights, movements and everything inbetween. Of course, the key to successful software development and insightful data analysis lies in the fusion of a strong technological foundation and analytical acumen. This portfolio serves to highlight those skills of mine. </p>
+<p>In today's fast-paced world, we use data for everything. We see data transforming every role, from production lines and logistics to social and political insights, movements and everything inbetween. Of course, the key to successful software development and insightful data analysis lies in the fusion of a strong technological foundation and analytical acumen. This portfolio serves to highlight those skills of mine. 
+<br><br>
+<a href='https://public.tableau.com/app/profile/charles.pizza'><strong>Tableau Dashboards here</strong></a></p>
 
 ## Projects
 <div>
